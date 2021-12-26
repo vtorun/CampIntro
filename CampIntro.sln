@@ -5,9 +5,13 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{B4C7410C-052C-4891-A379-7AECB6AC17EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E7C27031-7850-49CF-8FDF-D6FA0A79D984}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E7C27031-7850-49CF-8FDF-D6FA0A79D984}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerReferansTipler", "DegerReferansTipler\DegerReferansTipler.csproj", "{A48454F3-6956-4E63-9FF5-30F7365E74B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerReferansTipler", "DegerReferansTipler\DegerReferansTipler.csproj", "{A48454F3-6956-4E63-9FF5-30F7365E74B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{DE9F4AE6-F511-4C18-A20C-554F375BEBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{F9BE7B46-34A9-4878-9C7C-9624CC4326BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{A48454F3-6956-4E63-9FF5-30F7365E74B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A48454F3-6956-4E63-9FF5-30F7365E74B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A48454F3-6956-4E63-9FF5-30F7365E74B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9F4AE6-F511-4C18-A20C-554F375BEBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9F4AE6-F511-4C18-A20C-554F375BEBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9F4AE6-F511-4C18-A20C-554F375BEBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9F4AE6-F511-4C18-A20C-554F375BEBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BE7B46-34A9-4878-9C7C-9624CC4326BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BE7B46-34A9-4878-9C7C-9624CC4326BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BE7B46-34A9-4878-9C7C-9624CC4326BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BE7B46-34A9-4878-9C7C-9624CC4326BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
